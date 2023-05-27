@@ -1,0 +1,11 @@
+Package: GETS
+Type: Package
+Title: General-to-Specific Regression Procedure
+Version: 0.1.0
+Author: PP
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: : This package contains the general_to_specific function, which implements the general-to-specific regression procedure. This procedure allows for automatic selection of independent variables in a regression model based on their statistical significance level. The function gradually eliminates insignificant variables until reaching a model with independent variables that are significant at the specified level of significance.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
